@@ -1,7 +1,7 @@
 # Basic Express app in a docker container
 
 ### Step 1: Install Docker
-install docker on your host machine
+install [docker](https://docs.docker.com/get-docker/) on your host machine 
 
 ### Step 2: Build the image 
 `docker build -t express-app .`
